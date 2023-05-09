@@ -3,6 +3,10 @@
 ![Laifer GitHub stats](https://github-readme-stats.vercel.app/api?username=laifer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 
+<div style="display: inline_block"><br>
+ <img align="center" src="https://github.com/Laifer/Laifer/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</div>
+
 <!--
 **Laifer/Laifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
